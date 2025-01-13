@@ -12,7 +12,7 @@ Blog on Azure Univers and it is Mystery !
 ## Contents : The Differents parts of my Blog
 
 
-- [Azure Arc](Azure-Arc/)
+- [Azure Arc](My-Blog-content/tree/main/Azure-Arc)
 - [Azure Sentinel](Azure-Sentinel/)
 - [Azure FinOps](Azure-Sentinel/)  
 - [My Friends Articles](My-Friends-Articles/)
